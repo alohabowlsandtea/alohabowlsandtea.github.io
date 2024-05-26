@@ -15,7 +15,7 @@ const AboutComponent = () => {
                     <h3>History</h3>
                     <br/>
                     <p id="history-summary">
-                        Since 2015, HiTEA Cafe has been delighting Honolulu with outstanding boba creations and authentic Asian fare. Our fresh smoothies, teas, and scratch-made meals keep customers coming back. Customize your dream drink and taste our passion for freshness.
+                    Aloha Bowls and Tea celebrates Hawaii's cultural diversity by serving fresh, high-quality food and beverages with Aloha. As a local small business, we value Ohana and source ingredients locally, offering made-to-order poke bowls with sashimi-grade Ahi and smoothies from fresh fruits, ensuring the freshest local favorites.
                     </p>
                     <br/>
                     <p>

@@ -10,7 +10,7 @@
     padding: 200px;
 
     background-attachment: fixed;
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -27,7 +27,7 @@
         max-height: 400px;
         padding: 100px;
         background-attachment: none;
-        background-position: top;
+        background-position: center;
         background-repeat: no-repeat;
         background-size: auto;
     }

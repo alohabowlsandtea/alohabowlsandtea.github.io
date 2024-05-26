@@ -17,13 +17,13 @@ const NavbarComponent = () => {
             <Col>
                 <Row id="navbar-mobile" className="w-100 justify-content-evenly align-items-center">
                     <Col className="text-center">
-                        <a style={{color: 'black'}} href="https://www.instagram.com/hiteahawaii/" target="_blank" rel="noopener noreferrer"><Instagram size={30} /></a>
+                        <a style={{color: 'black'}} href="https://www.instagram.com/alohabowlsandtea/" target="_blank" rel="noopener noreferrer"><Instagram size={30} /></a>
                     </Col>
                     <Col className="text-center">
                         <Image id="logo" src={logo} alt="Logo" />
                     </Col>
                     <Col className="text-center">
-                        <button className="sec-color"><a style={{color: 'black', textDecoration: 'none'}} href="https://www.clover.com/online-ordering/hitea-cafe-honolulu" target="_blank" rel="noopener noreferrer">ORDER ONLINE</a></button>
+                        {/* <button className="sec-color"><a style={{color: 'black', textDecoration: 'none'}} href="https://www.clover.com/online-ordering/hitea-cafe-honolulu" target="_blank" rel="noopener noreferrer">ORDER ONLINE</a></button> */}
                     </Col>
                 </Row>
                 <Row className="w-100 d-flex justify-content-center align-items-center">
