@@ -10,7 +10,7 @@
 #location-box {
     border: 1px solid black;
     padding: 5px;
-    width: 47%;
+    display: inline-block;
 }
 
 #location-box:hover {
@@ -34,12 +34,16 @@
     #location-box:hover {
         background-color: black;
     }
-    #location-information-container {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/location-img.jpeg);
+    #location {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url(../img/location-img.jpeg);
         background-attachment: fixed;
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
         color: white;
+    }
+
+    #location-image-container {
+        display: none;
     }
 }

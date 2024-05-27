@@ -18,8 +18,25 @@
     justify-content: flex-end;
 }
 
+.gallery-img {
+    width: 15em;
+    height: 15em;
+}
+
+.gallery-container {
+    padding: 5px;
+}
+
 @media (max-width: 800px) { 
     #about-img-container {
         justify-content: center;
+    }
+    .gallery-img {
+        width: 10em;
+        height: 10em;
+    }
+
+    .gone {
+        display: none;
     }
 }
